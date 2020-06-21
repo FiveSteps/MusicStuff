@@ -1,0 +1,13 @@
+C:\Users\JackYellow\Desktop\MusicStuff\MusicStuff\bin\Debug\netcoreapp3.1\MusicStuff.exe
+C:\Users\JackYellow\Desktop\MusicStuff\MusicStuff\bin\Debug\netcoreapp3.1\MusicStuff.deps.json
+C:\Users\JackYellow\Desktop\MusicStuff\MusicStuff\bin\Debug\netcoreapp3.1\MusicStuff.runtimeconfig.json
+C:\Users\JackYellow\Desktop\MusicStuff\MusicStuff\bin\Debug\netcoreapp3.1\MusicStuff.runtimeconfig.dev.json
+C:\Users\JackYellow\Desktop\MusicStuff\MusicStuff\bin\Debug\netcoreapp3.1\MusicStuff.dll
+C:\Users\JackYellow\Desktop\MusicStuff\MusicStuff\bin\Debug\netcoreapp3.1\MusicStuff.pdb
+C:\Users\JackYellow\Desktop\MusicStuff\MusicStuff\obj\Debug\netcoreapp3.1\MusicStuff.csprojAssemblyReference.cache
+C:\Users\JackYellow\Desktop\MusicStuff\MusicStuff\obj\Debug\netcoreapp3.1\MusicStuff.csproj.CoreCompileInputs.cache
+C:\Users\JackYellow\Desktop\MusicStuff\MusicStuff\obj\Debug\netcoreapp3.1\MusicStuff.AssemblyInfoInputs.cache
+C:\Users\JackYellow\Desktop\MusicStuff\MusicStuff\obj\Debug\netcoreapp3.1\MusicStuff.AssemblyInfo.cs
+C:\Users\JackYellow\Desktop\MusicStuff\MusicStuff\obj\Debug\netcoreapp3.1\MusicStuff.dll
+C:\Users\JackYellow\Desktop\MusicStuff\MusicStuff\obj\Debug\netcoreapp3.1\MusicStuff.pdb
+C:\Users\JackYellow\Desktop\MusicStuff\MusicStuff\obj\Debug\netcoreapp3.1\MusicStuff.genruntimeconfig.cache
